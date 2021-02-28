@@ -4,7 +4,7 @@
    go to https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/device_setup/ 
 ## libiary set up
    SDK libiary set up :https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/library_setup/matlab_windows/#matlab-windows
-   MATLAB toolbox set up: please install image processing toolbox
+   MATLAB toolbox set up: please install: image processing toolbox; image acquisition toolbox; MATLAB Support for MinGW-w64 C/C++ Compiler; Optimization Toolbox
 
 ## run the code
 run the code main.m
